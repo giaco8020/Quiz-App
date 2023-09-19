@@ -1,6 +1,6 @@
 let settings = {
     "mode": "casuale",
-    "numDomande" : 35,
+    "numDomande" : 5,
     "VeroFalso" : true
 }
 
