@@ -24,7 +24,7 @@ To add questions, open the `questions.js` file and adhere to the provided format
       "False"
     ]
 },
-... (additional questions)
+... (additional questions)```
 
 **Notes**:
 - `numb`: Question number.
